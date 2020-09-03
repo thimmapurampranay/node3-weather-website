@@ -1,0 +1,88 @@
+body{
+    background-image:url(https://thumbs.gfycat.com/SingleCelebratedGermanwirehairedpointer-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#para{
+    font-family: cursive;
+    color: floralwhite;
+    font-size: 35px;
+    padding: 5px 5px;
+}
+
+.heading{
+    margin: 0 auto;
+    font-family: cursive;
+    color:#efeded;
+}
+#img-logo{
+    width:100px;
+    float: left;
+    padding: 28px 10px;
+}
+
+
+.main-content {
+    flex-grow: 1;
+}
+
+footer{
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+header{
+    margin-top: 35px;
+    margin-bottom: 100px;
+}
+
+h1{
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+
+
+.nav{
+    font-size: 30px;
+    font-family: monospace;
+    margin: 26px 36px;
+    top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.nav a{
+    color: #888888;
+    text-decoration: none;
+}
+
+.portrait {
+    width: 250px;    
+}
+
+input{
+    border: 1px solid #cccccc;
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 120px;
+}
+
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    margin: 3px 25px;
+    padding: 8px;
+}
